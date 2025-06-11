@@ -60,10 +60,10 @@ const messages = [
     "Pookie please...",
     "Just think about it!",
     "If you say no, I will be really sad...",
-    "I will be very sad...",
     "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "Theek hai yaar, I will stop asking...",
+    "Just kidding, say yes please! ❤️",
+    "Abh to Maaf kardo please yaaaaaar",
 ];
 
 let messageIndex = 0;
